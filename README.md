@@ -42,3 +42,12 @@ The link below contains the detailed user persona for the real stakeholders.
 ## Product Backlogs
 The product backlogs for the first iteration are stored in Pivotal Tracker and can be found [here.](https://www.pivotaltracker.com/projects/2600435)
 - All product backlog items are expressed as excellent user stories.
+
+## Product Backlogs Rationale
+Every user story that we have built so far starts in the icebox as loose ideas followed by moving them out of the icebox estimating priorities for each of these PBI's.
+- We then figure out the most important tasks to be accomplished in the upcoming sprint based on estimated priority and estimated points of the PBI.
+- We decide on the iteration length in weeks, followed by tasks that can be accomplished within the time frame.
+- With the help of PBI estimated points, we take into consideration the level of risk, repetition, and complexity.
+- The PBI's that delivers high value with comparatively less complexity are prioritized first followed by PBI's with high value but high complexity.
+- We try to take at max **11 possible points** in a sprint. But with high value, high complex tasks we consider taking only **9 points**.
+- Based on the above details, we carefully consider PBI's for upcoming sprints.
