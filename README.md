@@ -7,7 +7,7 @@ Case notes serve as a running record of client contact as well as a location to 
 1. Sintu Boro - **UI/UX Developer**
 2. Nana Boakye - **PM/BA**
 3. Akhil Sai Gunda - **Data Architect**
-4. Asifa Mobeen - **Unsure**
+4. Asifa Mobeen - **Microservices Developer**
 5. Mutunoor, Akshay Kumar - **Unsure**
 6. Samala, Harish Kumar - **Quality and DevOps**
 
@@ -51,3 +51,69 @@ Every user story that we have built so far starts in the icebox as loose ideas f
 - The PBI's that delivers high value with comparatively less complexity are prioritized first followed by PBI's with high value but high complexity.
 - We try to take at max **11 possible points** in a sprint. But with high value, high complex tasks we consider taking only **9 points**.
 - Based on the above details, we carefully consider PBI's for upcoming sprints.
+
+## Definition of Ready
+
+**Team:**  Case notes (Web)
+**Product:**
+
+Before adding a product backlog item to a Sprint backlog, as a team, we agree that it will be refined until:
+
+#### Independent
+
+- [ ] Story can be developed Independent from other stories.
+- [ ] Refined to get a functional cohesion.
+- [ ] If there are dependencies, they were refined and separated.
+- [ ] One team can work on it with minimal or no dependencies on other teams.
+- [ ] One team member can complete the work with minimal or no dependencies on others.
+
+<hr/>
+
+#### Negotiable
+
+- [ ]  The story was discussed with the team and they understand what to do.
+- [ ] The Acceptance criteria is defined.
+- [ ] There is a high level technical solution.
+- [ ] The team has what they need to start working on the story but some details will be discovered during the development.
+- [ ] A/B variants are defined.
+
+<hr/>
+
+#### Value
+
+- [ ] The priority in the backlog is clear.
+- [ ] Prioritized using MoSCoW method.
+- [ ] The Value of the story is quantified.
+- [ ] The team understands Why we do this and the expected impact on the user
+- [ ] The Role who obtain the value of the story is clear.
+- [ ] The stakeholders (would) agree with the Acceptance criteria and value.
+- [ ] It is clear if should be part of the next Product increment or MVP (minimum viable product).
+- [ ] Hypothesis/experiment, expected outcome, metrics and measurement period is defined.
+- [ ] Return of Investment: Stakeholders and PO know how much they will obtain with this story.
+- [ ] As **Role** I want **Feature** so that **Benefit**.
+
+<hr/>
+
+#### Estimated
+
+- [ ] Planning poker session done with the team.
+- [ ] Estimated in Tee-shirt sizes.
+- [ ] Estimated in Story points by the team.
+- [ ] All stories have similar size.
+
+<hr/>
+
+#### SMALL
+
+- [ ] Small: Estimation size less than or equal to __ points. 
+- [ ] It is not an Epic.
+- [ ] It can be done in One Sprint.
+- [ ] Refined to obtain 80% of its value using 20% of its effort: The minimum size that can reach value was achieved.
+
+<hr/>
+    
+#### Testable
+
+- [ ] The team understands how the story can be tested.
+- [ ] Acceptance tests and examples are defined.
+- [ ] Scenario-oriented Acceptance criteria Given-When-Then.
