@@ -8,7 +8,7 @@ Case notes serve as a running record of client contact as well as a location to 
 2. Nana Boakye - **PM/BA**
 3. Akhil Sai Gunda - **Data Architect**
 4. Asifa Mobeen - **Microservices Developer**
-5. Mutunoor, Akshay Kumar - **Unsure**
+5. Mutunoor, Akshay Kumar - **Data Architect**
 6. Samala, Harish Kumar - **Quality and DevOps**
 
 ## Product Vision
@@ -54,7 +54,7 @@ Every user story that we have built so far starts in the icebox as loose ideas f
 
 ## Definition of Ready
 
-**Team:**  Case notes (Web) </br>
+**Team:**  Case notes (Web)
 **Product:**
 
 Before adding a product backlog item to a Sprint backlog, as a team, we agree that it will be refined until:
