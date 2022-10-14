@@ -55,6 +55,8 @@ Every user story that we have built so far starts in the icebox as loose ideas f
 ## Definition of Ready
 
 **Product:** Case notes (Web)
+**Title:**
+**User story opening sentence:**
 
 Before adding a product backlog item to a Sprint backlog, as a team, we agree that it will be refined until:
 
