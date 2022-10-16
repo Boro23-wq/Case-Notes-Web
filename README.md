@@ -118,3 +118,50 @@ Before adding a product backlog item to a Sprint backlog, as a team, we agree th
 - [ ] The team understands how the story can be tested.
 - [ ] Acceptance tests and examples are defined.
 - [ ] Scenario-oriented Acceptance criteria Given-When-Then.
+
+<hr/>
+
+#### Relative Size Estimation Activity
+
+Sprint 1 
+Collect and analyze client information - 3
+Monitor case health - Medical Practioner - 3
+Record the content of the meeting - 3
+External data - 2
+Data Analysis tool - 2
+Query Assistance - 2
+
+15
+
+Sprint 2 
+Review Cheklist Options - 3
+Role-Based access - 3
+Time limit - 2
+Case History of patient - 2
+Self service - 2 
+Monitoring a plan - 2 
+
+14
+
+Sprint 3 
+Plan objectives - 3
+Feedback analysis - 2
+Quick & easy communication - 3
+Comment on cases - 2
+
+12
+
+
+Sprint 4
+Review & comment on case - 2
+Notify follow-up appointments - 2
+Write, update, delete Access - 3
+Quick and easy - 3
+One on One conversation - 3
+Risk Evaluation - 2
+
+15
+
+Average = 15 points
+
+
